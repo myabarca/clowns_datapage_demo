@@ -1,8 +1,8 @@
 ---
-title: "Palmer Penguins"
-subtitle: "A great dataset for data exploration & visualization"
+title: "Maricela's Clown Database Datapage Demo!"
+subtitle: "Trying out a new dataset..."
 description: |
-  Data were collected and made available by [Dr. Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) and the [Palmer Station, Antarctica LTER](https://pallter.marine.rutgers.edu/), a member of the [Long Term Ecological Research Network](https://lternet.edu/).
+  Clown data from [Stanford's Geospatial Data Teaching Collection](https://purl.stanford.edu/sp780kk0063).
 ---
 
 ::: {layout-ncol=2}
